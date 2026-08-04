@@ -16,9 +16,9 @@ Each project includes: - 🌐 **Application** - 📖 **Instructions** - 💻
 Enterprise AI decision support platform for conversational analytics,
 reporting, and business intelligence.
 
--   🌐 **Application:** https://...
--   📖 **Instructions:** https://...
--   💻 **GitHub Repository:** https://github.com/...
+-   🌐 **Application:** https://odin.agilesolutionsinc.org/
+-   📖 **Instructions:** https://odin.instructions.agilesolutionsinc.org/
+-   💻 **GitHub Repository:** https://github.com/JerryValentine2/odin
 
 ------------------------------------------------------------------------
 
@@ -27,9 +27,9 @@ reporting, and business intelligence.
 AI-powered retail platform for inventory management, product discovery,
 and e-commerce.
 
--   🌐 **Application:** https://...
--   📖 **Instructions:** https://...
--   💻 **GitHub Repository:** https://github.com/...
+-   🌐 **Application:** https://freya.agilesolutionsinc.org/
+-   📖 **Instructions:** https://freya.instructions.agilesolutionsinc.org/
+-   💻 **GitHub Repository:** https://github.com/JerryValentine2/FREYA-Online-Load, https://github.com/JerryValentine2/FREYA-Online-Wardrobe-Management, https://github.com/JerryValentine2/FREYA-Online-Discovery
 
 ------------------------------------------------------------------------
 
@@ -38,30 +38,9 @@ and e-commerce.
 AI investment analysis platform for evaluating companies and supporting
 investment decisions.
 
--   🌐 **Application:** https://...
--   📖 **Instructions:** https://...
--   💻 **GitHub Repository:** https://github.com/...
-
-------------------------------------------------------------------------
-
-## Clio
-
-AI productivity assistant for scheduling, planning, and conversational
-task management.
-
--   🌐 **Application:** https://...
--   📖 **Instructions:** https://...
--   💻 **GitHub Repository:** https://github.com/...
-
-------------------------------------------------------------------------
-
-## Kokopelli
-
-AI learning platform for interactive education and knowledge discovery.
-
--   🌐 **Application:** https://...
--   📖 **Instructions:** https://...
--   💻 **GitHub Repository:** https://github.com/...
+-   🌐 **Application:** https://ares.agilesolutionsinc.org/
+-   📖 **Instructions:** https://ares.instructions.agilesolutionsinc.org/
+-   💻 **GitHub Repository:** https://github.com/JerryValentine2/ares-investor
 
 ------------------------------------------------------------------------
 
