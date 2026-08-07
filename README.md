@@ -10,6 +10,21 @@ Each project includes: - 🌐 **Application** - 📖 **Instructions** - 💻
 **GitHub Repository**
 
 ------------------------------------------------------------------------
+
+## Application Status
+
+**Production** — Applications that are complete, validated, deployed, and
+ready for users.
+
+**Development** — Applications actively under development. They may be
+deployed and available for review or demonstration, but are not yet
+considered production-ready.
+
+**Sandbox** — Experimental applications, prototypes, and concepts used
+for exploration, learning, and technical experimentation. They are not
+intended to represent production-ready products.
+
+------------------------------------------------------------------------
 Production
 ------------------------------------------------------------------------
 
