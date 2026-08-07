@@ -10,6 +10,8 @@ Each project includes: - 🌐 **Application** - 📖 **Instructions** - 💻
 **GitHub Repository**
 
 ------------------------------------------------------------------------
+Production
+------------------------------------------------------------------------
 
 ## Odin
 
@@ -22,6 +24,30 @@ reporting, and business intelligence.
 
 ------------------------------------------------------------------------
 
+## Ares
+
+AI investment analysis platform for evaluating companies and supporting
+investment decisions.
+
+-   🌐 **Application:** https://ares.agilesolutionsinc.org/
+-   📖 **Instructions:** https://ares.instructions.agilesolutionsinc.org/
+-   💻 **GitHub Repository:** https://github.com/JerryValentine2/ares-investor
+
+------------------------------------------------------------------------
+
+## Mercury
+
+AI-first application platform and reference implementation for executing
+exchangeable JSON AI Programs through the Mercury Runtime.
+
+-   🌐 **Application:** https://mercury.agilesolutionsinc.org/
+-   📖 **Instructions:** N/A
+-   💻 **GitHub Repository:** https://github.com/JerryValentine2/mercury
+
+------------------------------------------------------------------------
+Development
+------------------------------------------------------------------------
+
 ## Freya Suite
 
 AI-powered retail platform for inventory management, product discovery,
@@ -32,15 +58,8 @@ and e-commerce.
 -   💻 **GitHub Repository:** https://github.com/JerryValentine2/FREYA-Online-Load, https://github.com/JerryValentine2/FREYA-Online-Wardrobe-Management, https://github.com/JerryValentine2/FREYA-Online-Discovery
 
 ------------------------------------------------------------------------
-
-## Ares
-
-AI investment analysis platform for evaluating companies and supporting
-investment decisions.
-
--   🌐 **Application:** https://ares.agilesolutionsinc.org/
--   📖 **Instructions:** https://ares.instructions.agilesolutionsinc.org/
--   💻 **GitHub Repository:** https://github.com/JerryValentine2/ares-investor
+Sandbox
+------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
 
