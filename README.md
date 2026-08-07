@@ -1,6 +1,6 @@
 # Jerry Valentine
 
-## Enterprise AI Solutions Engineer
+## Enterprise AI Solutions Engineering
 
 Welcome to my AI application portfolio. This repository is the central
 hub for my production AI applications, with links to each live
