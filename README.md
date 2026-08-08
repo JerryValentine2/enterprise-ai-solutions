@@ -60,6 +60,16 @@ exchangeable JSON AI Programs through the Mercury Runtime.
 -   💻 **GitHub Repository:** https://github.com/JerryValentine2/mercury
 
 ------------------------------------------------------------------------
+
+## Athena
+
+AI-first RAG and vector database platform for semantic retrieval of product definitions, behavioral contracts, and structured enterprise knowledge. Built on a three-layer architecture — web UI, Python retrieval service, and Firestore vector database — deployed on Google Cloud Run, with Gemini embeddings powering semantic search, ranked retrieval, traceability, and deterministic PASS/STOP behavior.
+
+-   🌐 **Application:** https://athena.agilesolutionsinc.org/
+-   📖 **Instructions:** N/A
+-   💻 **GitHub Repository:** https://github.com/JerryValentine2/athena
+
+------------------------------------------------------------------------
 Development
 ------------------------------------------------------------------------
 
