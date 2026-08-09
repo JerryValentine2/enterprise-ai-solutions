@@ -2,102 +2,146 @@
 
 ## Enterprise AI Solutions Engineering
 
-Welcome to my AI application portfolio. This repository is the central
-hub for my production AI applications, with links to each live
-application, documentation, and source code.
+This portfolio demonstrates the design and implementation of production AI systems spanning AI application architecture, behavioral governance, RAG and semantic retrieval, agentic and contract-driven systems, and applied AI decision support.
 
-Each project includes: - 🌐 **Application** - 📖 **Instructions** - 💻
-**GitHub Repository**
+Each portfolio item provides progressively deeper evidence through deployed applications, technical documentation, architecture, and source code.
 
-------------------------------------------------------------------------
+* 🌐 **Application** — Working deployed product or service
+* 📖 **Documentation** — Product behavior, architecture, instructions, and validation
+* 💻 **GitHub** — Source code and technical implementation
 
-## Application Status
+---
 
-**Production** — Applications that are complete, validated, deployed, and
-ready for users.
+## Portfolio Architecture
 
-**Development** — Applications actively under development. They may be
-deployed and available for review or demonstration, but are not yet
-considered production-ready.
+The portfolio is organized around two complementary areas:
 
-**Sandbox** — Experimental applications, prototypes, and concepts used
-for exploration, learning, and technical experimentation. They are not
-intended to represent production-ready products.
+### AI Product Engineering
 
-------------------------------------------------------------------------
-Production
-------------------------------------------------------------------------
+Foundational systems for defining, governing, architecting, retrieving, and implementing AI product behavior.
 
-## Odin
+**Mercury • Aphrodite • Athena**
 
-Enterprise AI decision support platform for conversational analytics,
-reporting, and business intelligence.
+### Applied AI Systems
 
--   🌐 **Application:** https://odin.agilesolutionsinc.org/
--   📖 **Instructions:** https://odin.instructions.agilesolutionsinc.org/
--   💻 **GitHub Repository:** https://github.com/JerryValentine2/odin
+Production applications demonstrating how AI engineering capabilities are applied to real business and analytical problems.
 
-------------------------------------------------------------------------
+**Odin • Ares**
 
-## Ares
+---
 
-AI investment analysis platform for evaluating companies and supporting
-investment decisions.
+# Production
 
--   🌐 **Application:** https://ares.agilesolutionsinc.org/
--   📖 **Instructions:** https://ares.instructions.agilesolutionsinc.org/
--   💻 **GitHub Repository:** https://github.com/JerryValentine2/ares-investor
+## AI Product Engineering
 
-------------------------------------------------------------------------
+### Mercury
 
-## Mercury
+AI-first product engineering methodology for moving AI products from product definition through governed design, implementation, validation, and deployment.
 
-AI-first application platform and reference implementation for executing
-exchangeable JSON AI Programs through the Mercury Runtime.
+**Demonstrates:** Behavioral Contracts • AI Governance • Product Definition • PASS/STOP Validation • AI-Assisted Engineering
 
--   🌐 **Application:** https://mercury.agilesolutionsinc.org/
--   📖 **Instructions:** N/A
--   💻 **GitHub Repository:** https://github.com/JerryValentine2/mercury
+* 🌐 **Application:** https://mercury.agilesolutionsinc.org/
+* 📖 **Documentation:** [To be finalized]
+* 💻 **GitHub:** https://github.com/JerryValentine2/mercury
 
-------------------------------------------------------------------------
+---
 
-## Athena
+### Aphrodite
 
-Enterprise RAG and vector retrieval platform for semantic retrieval of
-product definitions, behavioral contracts, and structured enterprise
-knowledge. Built on a three-layer architecture — web UI, Python retrieval
-service, and Firestore vector database — deployed on Google Cloud Run,
-with Gemini embeddings powering semantic search, ranked retrieval,
-traceability, and deterministic PASS/STOP behavior.
+AI-first application architecture defining the responsibilities and guardrails for implementing product-specific AI web applications without imposing a universal software template.
 
--   🌐 **Application:** https://athena.agilesolutionsinc.org/
--   📖 **Instructions:** N/A
--   💻 **GitHub Repository:** https://github.com/JerryValentine2/athena
+**Demonstrates:** AI Application Architecture • Product-Specific UI and Server Design • Behavioral Contract Integration • Model and Modality Independence • Architectural Governance
 
-------------------------------------------------------------------------
-Development
-------------------------------------------------------------------------
+* 🌐 **Application:** [N/A or architecture site]
+* 📖 **Architecture:** [To be added]
+* 💻 **GitHub:** [To be added if applicable]
+
+---
+
+### Athena
+
+Enterprise RAG and vector retrieval service for storing, retrieving, and semantically discovering authoritative Product Definitions and Behavioral Contracts.
+
+**Demonstrates:** RAG • Semantic Retrieval • Vector Search • Gemini Embeddings • Deterministic Product Retrieval • Behavioral Contract Infrastructure
+
+**Architecture:** Web UI → Python retrieval service → Firestore vector database, deployed on Google Cloud with embedding-based semantic search and deterministic product retrieval.
+
+* 🌐 **Application:** https://athena.agilesolutionsinc.org/
+* 📖 **Documentation:** [To be finalized]
+* 💻 **GitHub:** https://github.com/JerryValentine2/athena
+
+---
+
+## Applied AI Systems
+
+### Odin
+
+Enterprise AI decision-support platform for conversational analytics, reporting, and business intelligence.
+
+**Demonstrates:** Applied AI Decision Support • Conversational Analytics • Enterprise Application Architecture • Authentication • Cloud Deployment
+
+* 🌐 **Application:** https://odin.agilesolutionsinc.org/
+* 📖 **Instructions:** https://odin.instructions.agilesolutionsinc.org/
+* 💻 **GitHub:** https://github.com/JerryValentine2/odin
+
+---
+
+### Ares
+
+AI investment-analysis platform for evaluating companies and supporting investment decisions.
+
+**Demonstrates:** Applied AI Analysis • Financial Decision Support • AI-Assisted Research and Analysis • Production AI Application Engineering
+
+* 🌐 **Application:** https://ares.agilesolutionsinc.org/
+* 📖 **Instructions:** https://ares.instructions.agilesolutionsinc.org/
+* 💻 **GitHub:** https://github.com/JerryValentine2/ares-investor
+
+---
+
+# Development
 
 ## Freya Suite
 
-AI-powered retail platform for inventory management, product discovery,
-and e-commerce.
+AI-powered retail platform spanning product discovery, wardrobe management, clothing design, and retail intelligence.
 
--   🌐 **Application:** https://freya.agilesolutionsinc.org/
--   📖 **Instructions:** https://freya.instructions.agilesolutionsinc.org/
--   💻 **GitHub Repository:** https://github.com/JerryValentine2/FREYA-Online-Load, https://github.com/JerryValentine2/FREYA-Online-Wardrobe-Management, https://github.com/JerryValentine2/FREYA-Online-Discovery
+**Demonstrates:** Multimodal AI • Applied AI Product Engineering • Retail Intelligence • Multi-Application Product Architecture
 
-------------------------------------------------------------------------
-Sandbox
-------------------------------------------------------------------------
+* 🌐 **Application:** https://freya.agilesolutionsinc.org/
+* 📖 **Instructions:** https://freya.instructions.agilesolutionsinc.org/
+* 💻 **GitHub:** Multiple repositories within the Freya Suite
 
-------------------------------------------------------------------------
+---
 
-## Technologies
+# Evidence Model
 
-Python • Google Cloud Platform • Vertex AI • Gemini • Flask • Cloud Run
-• REST APIs • SQL • GitHub • AI Engineering • Data Engineering
+Portfolio capabilities are designed to be independently inspectable.
 
-------------------------------------------------------------------------
+```text
+Professional Capability
+        ↓
+Portfolio System
+        ↓
+Specific Engineering Capability
+        ↓
+Architecture / Documentation
+        ↓
+Source Code / Validation
+        ↓
+Working Application
+```
 
-Thank you for visiting my portfolio.
+The objective is not simply to list technologies or projects. Each primary portfolio item is included because it demonstrates a specific production AI engineering capability.
+
+---
+
+## Technical Foundation
+
+**AI Architecture:** RAG • Semantic Retrieval • Vector Search • Behavioral Contracts • Agentic Systems • AI Governance • AI Decision Support
+
+**Cloud & Data:** Google Cloud Platform • Vertex AI • Gemini • Cloud Run • Firestore • SQL
+
+**Engineering:** Python • Flask • REST APIs • JSON • Data Engineering • Application Architecture
+
+---
+
+**GitHub Portfolio:** https://github.com/JerryValentine2
