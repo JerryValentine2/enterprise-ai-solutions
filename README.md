@@ -54,7 +54,7 @@ This architecture allows applications to share vector-search capabilities throug
 **Status:** Core vector database and read-only retrieval service completed; full CRUD functionality is not yet implemented.
 
 * 🌐 **Application:** https://athena.agilesolutionsinc.org/
-* 📖 **Instructions:** [To be finalized]
+* 📖 **Instructions:** https://athena-instructions-v1-927115364189.us-central1.run.app/
 * 💻 **GitHub Code and Documentation:** https://github.com/JerryValentine2/athena
 
 **Technologies:** Google Cloud, Firestore, Cloud Run, vector search, embeddings, REST APIs
