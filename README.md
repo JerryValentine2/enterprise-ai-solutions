@@ -21,9 +21,9 @@ The results of the DEP analysis are transmitted to AI, which interprets the anal
 
 **Status:** User tested and ready for use.
 
-**Application:** [Application link]
-**Instructions:** [Instructions link]
-**GitHub:** [Repository link]
+* 🌐 **Application:** https://odin.agilesolutionsinc.org/
+* 📖 **Instructions:** https://odin.instructions.agilesolutionsinc.org/
+* 💻 **GitHub:** https://github.com/JerryValentine2/odin
 
 **Technologies:** Python, Google Cloud, Large Language Models, REST APIs, data analytics, machine learning
 
@@ -37,24 +37,24 @@ After evaluating a decision in ODIN, a decision that leads to a potential invest
 
 **Status:** UAT tested and validated; customer testing has not yet been completed.
 
-**Application:** [Application link]
-**Instructions:** [Instructions link]
-**GitHub:** [Repository link]
+* 🌐 **Application:** https://ares.agilesolutionsinc.org/
+* 📖 **Instructions:** https://ares.instructions.agilesolutionsinc.org/
+* 💻 **GitHub:** https://github.com/JerryValentine2/ares-investor
 
 **Technologies:** Python, Google Cloud, Large Language Models, REST APIs, financial analysis, data analytics
 
 ---
 
-## APOLLO — Cloud Vector Database
+## Athena — Cloud Vector Database
 
-Apollo is a cloud-based vector database built on **Google Cloud Firestore**. A centralized vector database service deployed on **Cloud Run** provides a single API layer through which multiple applications can access the vector database.
+Athena is a cloud-based vector database built on **Google Cloud Firestore**. A centralized vector database service deployed on **Cloud Run** provides a single API layer through which multiple applications can access the vector database.
 
 This architecture allows applications to share vector-search capabilities through one reusable cloud service rather than implementing and maintaining separate vector database integrations.
 
 **Status:** Core vector database and read-only retrieval service completed; full CRUD functionality is not yet implemented.
 
-**Application:** [Application link]
-**Instructions:** [Instructions link]
-**GitHub:** [Repository link]
+* 🌐 **Application:** https://athena.agilesolutionsinc.org/
+* 📖 **Instructions:** [To be finalized]
+* 💻 **GitHub:** https://github.com/JerryValentine2/athena
 
 **Technologies:** Google Cloud, Firestore, Cloud Run, vector search, embeddings, REST APIs
