@@ -23,7 +23,7 @@ The results of the DEP analysis are transmitted to AI, which interprets the anal
 
 * 🌐 **Application:** https://odin.agilesolutionsinc.org/
 * 📖 **Instructions:** https://odin.instructions.agilesolutionsinc.org/
-* 💻 **GitHub:** https://github.com/JerryValentine2/odin
+* 💻 **GitHub Code and Documentation:** https://github.com/JerryValentine2/odin
 
 **Technologies:** Python, Google Cloud, Large Language Models, REST APIs, data analytics, machine learning
 
@@ -39,7 +39,7 @@ After evaluating a decision in ODIN, a decision that leads to a potential invest
 
 * 🌐 **Application:** https://ares.agilesolutionsinc.org/
 * 📖 **Instructions:** https://ares.instructions.agilesolutionsinc.org/
-* 💻 **GitHub:** https://github.com/JerryValentine2/ares-investor
+* 💻 **GitHub Code and Documentation:** https://github.com/JerryValentine2/ares-investor
 
 **Technologies:** Python, Google Cloud, Large Language Models, REST APIs, financial analysis, data analytics
 
@@ -55,6 +55,6 @@ This architecture allows applications to share vector-search capabilities throug
 
 * 🌐 **Application:** https://athena.agilesolutionsinc.org/
 * 📖 **Instructions:** [To be finalized]
-* 💻 **GitHub:** https://github.com/JerryValentine2/athena
+* 💻 **GitHub Code and Documentation:** https://github.com/JerryValentine2/athena
 
 **Technologies:** Google Cloud, Firestore, Cloud Run, vector search, embeddings, REST APIs
