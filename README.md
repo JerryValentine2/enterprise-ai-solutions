@@ -45,6 +45,26 @@ After evaluating a decision in ODIN, a decision that leads to a potential invest
 
 ---
 
+## Kokopelli Trainer — Mathematics AI Trainer
+
+Kokopelli Trainer is an AI-powered mathematics learning application that provides adaptive, Socratic instruction while validating AI responses against explicit behavioral requirements.
+
+The application separates the learning behavior from the conventional application code. A structured **Mathematics AI Program** defines the instructional behavior, while the Mercury runtime executes the program through Google Vertex AI and validates the resulting AI responses before they are presented to the learner.
+
+The trainer introduces mathematical concepts in plain language, explains essential terminology, provides concrete examples, and guides the learner through Socratic questions. It evaluates learner responses, adapts subsequent instruction, identifies misconceptions, and requires evidence of understanding before completing a learning session.
+
+The application uses a deliberately minimal Python web architecture, separating the web application layer, AI execution runtime, and behavioral AI Program.
+
+**Status:** Development.
+
+- 🌐 **Application:** kokopelli.math.agilesolutionsinc.org
+- 📖 **Instructions:** [soon]
+- 💻 **GitHub Code and Documentation:** https://github.com/JerryValentine2/kokopelli-math
+
+**Technologies:** Python, Google Cloud Vertex AI, Gemini, JSON, REST/HTTP, behavioral validation, AI program execution
+
+---
+
 ## Athena — Cloud Vector Database
 
 Athena is a cloud-based vector database built on **Google Cloud Firestore**. A centralized vector database service deployed on **Cloud Run** provides a single API layer through which multiple applications can access the vector database.
