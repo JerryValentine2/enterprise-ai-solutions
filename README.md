@@ -6,6 +6,8 @@ I design and deploy production AI applications, data platforms, and cloud-native
 
 This portfolio highlights three systems demonstrating applied decision support, investment evaluation, and cloud-based vector data infrastructure.
 
+Email: jerryevalentine@gmail.com
+
 ---
 
 ## ODIN — Decision Support System
