@@ -8,7 +8,7 @@ This portfolio highlights three systems demonstrating applied decision support, 
 
 Email: jerryevalentine@gmail.com
 
-Featured Applications
+# Featured Applications
 
 ## ODIN — Decision Support System
 
@@ -72,7 +72,7 @@ The application uses a deliberately minimal Python web architecture, separating 
 
 **Technologies:** Python, Google Cloud Vertex AI, Gemini, JSON, REST/HTTP, behavioral validation, AI program execution
 
-Sandbox Applications
+# Sandbox Applications
 
 ## Apollo — Document Knowledge & Retrieval Platform
 
