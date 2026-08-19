@@ -56,7 +56,7 @@ After evaluating a decision in ODIN, a decision that leads to a potential invest
 
 ## Kokopelli Trainer — Mathematics AI Trainer
 
-- 🌐 **Application:** kokopelli.math.agilesolutionsinc.org
+- 🌐 **Application:** https://kokopelli.math.agilesolutionsinc.org
 - 📖 **Instructions:** [soon]
 - 💻 **GitHub Code and Documentation:** https://github.com/JerryValentine2/kokopelli-math
   
