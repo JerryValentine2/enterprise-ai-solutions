@@ -67,16 +67,20 @@ The application uses a deliberately minimal Python web architecture, separating 
 
 ---
 
-## Athena — Cloud Vector Database
+## ## Apollo — Document Knowledge & Retrieval Platform
 
-Athena is a cloud-based vector database built on **Google Cloud Firestore**. A centralized vector database service deployed on **Cloud Run** provides a single API layer through which multiple applications can access the vector database.
+Apollo is a cloud-based document knowledge and semantic retrieval platform that allows users to upload PDF documents and search their contents using natural-language questions.
 
-This architecture allows applications to share vector-search capabilities through one reusable cloud service rather than implementing and maintaining separate vector database integrations.
+Documents are ingested, text is extracted and divided into searchable chunks, and vector embeddings are generated for semantic retrieval. Apollo returns relevant source passages with traceability information including the source document, page number, Document ID, and chunk ID.
 
-**Status:** Core vector database and read-only retrieval service completed; full CRUD functionality is not yet implemented.
+The platform also provides document lifecycle capabilities for adding, loading, and deleting source documents and their associated vector data. Documents are organized using Product IDs, allowing related collections of knowledge to be searched within a defined scope.
 
-* 🌐 **Application:** https://athena.agilesolutionsinc.org/
-* 📖 **Instructions:** https://athena-instructions-v1-927115364189.us-central1.run.app/
-* 💻 **GitHub Code and Documentation:** https://github.com/JerryValentine2/athena
+Apollo uses deterministic validation and error handling rather than silently returning uncertain retrieval results. Current development is focused on improving multi-document retrieval and document-management usability based on hands-on UAT.
 
-**Technologies:** Google Cloud, Firestore, Cloud Run, vector search, embeddings, REST APIs
+**Status:** Sandbox — deployed and functional; active UAT and usability refinement in progress.
+
+* 🌐 **Application:** https://apollo.agilesolutionsinc.org/
+* 📖 **Instructions:** https://apollo.instructions.agilesolutionsinc.org/
+* 💻 **GitHub Code and Documentation:** *add Apollo repository link*
+
+**Technologies:** Python, Google Cloud Run, Google Cloud Storage, Firestore vector search, Gemini embeddings, REST APIs, semantic search, vector embeddings, PDF document processing
