@@ -36,11 +36,11 @@ The results of the DEP analysis are transmitted to AI, which interprets the anal
 ---
 
 ## ARES — Investment Evaluation System
-Usage Note: Ares performs an in-depth analysis using seven independent investor perspectives followed by a synthesized investor-readiness assessment. Analysis may take 30–60 seconds to complete.
 
 * 🌐 **Application:** https://ares.agilesolutionsinc.org/
 * 📖 **Instructions:** https://ares.instructions.agilesolutionsinc.org/
 * 💻 **GitHub Code and Documentation:** https://github.com/JerryValentine2/ares-investor
+  Usage Note: Ares performs an in-depth analysis using seven independent investor perspectives followed by a synthesized investor-readiness assessment. Analysis may take 30–60 seconds to complete.
 
 ARES evaluates potential investments to determine whether an investment decision is financially sound. It analyzes expected costs, benefits, returns, risks, and financial performance to provide a structured evaluation of whether an investment makes economic sense.
 
