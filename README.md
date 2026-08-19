@@ -33,7 +33,7 @@ The results of the DEP analysis are transmitted to AI, which interprets the anal
 
 **Technologies:** Python, Google Cloud, Large Language Models, REST APIs, data analytics, machine learning
 
----
+--- 
 
 ## ARES — Investment Evaluation System
 
