@@ -54,6 +54,8 @@ After evaluating a decision in ODIN, a decision that leads to a potential invest
 
 ---
 
+# Sandbox Applications
+
 ## Kokopelli Trainer — Mathematics AI Trainer
 
 - 🌐 **Application:** https://kokopelli.math.agilesolutionsinc.org
@@ -70,11 +72,7 @@ The application uses a deliberately minimal Python web architecture, separating 
 
 **Status:** Development.
 
-
 **Technologies:** Python, Google Cloud Vertex AI, Gemini, JSON, REST/HTTP, behavioral validation, AI program execution
-
-
-# Sandbox Applications
 
 ## Apollo — Document Knowledge & Retrieval Platform
 
