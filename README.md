@@ -67,7 +67,7 @@ The application uses a deliberately minimal Python web architecture, separating 
 
 ---
 
-## ## Apollo — Document Knowledge & Retrieval Platform
+## Apollo — Document Knowledge & Retrieval Platform
 
 Apollo is a cloud-based document knowledge and semantic retrieval platform that allows users to upload PDF documents and search their contents using natural-language questions.
 
