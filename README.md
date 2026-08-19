@@ -72,6 +72,7 @@ The application uses a deliberately minimal Python web architecture, separating 
 
 
 **Technologies:** Python, Google Cloud Vertex AI, Gemini, JSON, REST/HTTP, behavioral validation, AI program execution
+
 Sandbox Applications
 ---
 
