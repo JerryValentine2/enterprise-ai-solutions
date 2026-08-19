@@ -21,7 +21,12 @@ ODIN prepares and analyzes data using reports, visualizations, summary statistic
 
 The results of the DEP analysis are transmitted to AI, which interprets the analytical results and returns additional insights to help users understand their significance. ODIN also provides an interactive AI chat feature that allows users to ask questions and explore the results conversationally.
 
-**Status:** User tested and ready for use.
+**Status:** User tested and ready for use. Independent user testing found the workflow easy to use, the AI analysis clear and useful, and the discussion feature helpful for exploring specific findings.
+
+**Upcoming Features:**
+* Expanded user customization of analysis and visualizations.
+* Metadata upload for defining dataset columns and providing additional context for analysis.
+
 
 * 🌐 **Application:** https://odin.agilesolutionsinc.org/
 * 📖 **Instructions:** https://odin.instructions.agilesolutionsinc.org/
